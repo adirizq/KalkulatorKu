@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KalkulatorKu</string>
+    <string name="app_name_2">Ku</string>
+    <string name="app_name_1">Kalkulator</string>
+    <string name="sub_title">Solusi untuk yang malas menghitung</string>
+    <string name="tv_menu">Pilih Bangun</string>
+    <string name="tv_persegi">Persegi</string>
+    <string name="tv_persegi_panjang">Persegi Panjang</string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="tv_jajar_genjang">Jajar Genjang</string>
+    <string name="tv_segitiga">Segitiga</string>
+    <string name="tv_layang_layang">Layang - Layang</string>
+    <string name="tv_lingkaran">Lingkaran</string>
+    <string name="tv_belah_ketupat">Belah Ketupat</string>
+    <string name="tv_keliling">Keliling</string>
+    <string name="tv_panjang_sisi">Panjang Sisi</string>
+    <string name="tv_pilih_perhitungan">Pilih Perhitungan</string>
+    <string name="btn_pilih">Pilih</string>
+</resources>
